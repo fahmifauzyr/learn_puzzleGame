@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Puzzle Game</string>
+    <string name="title_new_game">New Game</string>
+    <string name="title_settings">Setting</string>
+    <string name="title_help">Help</string>
+
+    <string-array name="size_option">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
